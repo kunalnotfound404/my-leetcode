@@ -38,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 <!---LeetCode Topics End-->
