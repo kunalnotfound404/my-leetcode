@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 ## Stack
@@ -37,9 +38,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/0219-contains-duplicate-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
