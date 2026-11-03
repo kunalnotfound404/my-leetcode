@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kunalnotfound404/my-leetcode/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 <!---LeetCode Topics End-->
